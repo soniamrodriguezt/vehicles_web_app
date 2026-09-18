@@ -23,3 +23,9 @@ La aplicación utiliza el conjunto de datos `vehicles_us.csv` y permite visualiz
 Para ejecutar la aplicación localmente:
 
 `streamlit run app.py`
+
+## Aplicación desplegada
+
+La aplicación está disponible públicamente en Render:
+
+https://vehicles-web-app-ztm6.onrender.com
